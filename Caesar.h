@@ -1,8 +1,8 @@
-#include <fstream>
-#include <string>
-
 #ifndef __Cesar__
 #define __Cesar__
+
+#include <fstream>
+#include <string>
 
 class Caesar {    
     std::ifstream inp;
